@@ -8,7 +8,7 @@ setup(
     author = "IKings",
     author_email = "adking08@hotmail.com",
     url = "https://github.com/KingsMMA/ScreenAPI",
-    download_url = "https://github.com/KingsMMA/ScreenAPI/archive/beta_v1_0.tar.gz",
+    download_url = "https://github.com/KingsMMA/ScreenAPI/archive/refs/tags/beta_v1_0.tar.gz",
     keywords = ["screen", "api", "screenapi", "utility", "tkinter"],
     install_requires = [
         "tkinter",
