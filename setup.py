@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name = "ScreenAPI",
     packages = ["ScreenAPI"],
-    version = "Beta 1.0",
+    version = "beta-1.0",
     description = "A python library used for making custom screens easier.",
     author = "IKings",
     author_email = "adking08@hotmail.com",
@@ -13,7 +13,7 @@ setup(
     install_requires = [
         "tkinter",
         "math"
-    ]
+    ],
     classifiers =[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
